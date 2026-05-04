@@ -1,0 +1,28 @@
+{
+    "version" :"1.0",
+    "packages": [
+        {
+            "package": "com.google.android.youtube",
+            "click_ids" : [
+                "skip_ad_button",
+                "modern_miniplayer_skip_ad_button"
+            ],
+            "mute_ids": [
+                "player_learn_more_button",
+                "ad_progress_text",
+                "modern_miniplayer_ad_badge",
+                "ad_badge&!collapsible_ad_cta_overlay_container" 
+            ]
+        },
+        {
+            "package": "com.google.android.youtube.music",
+            "click_ids" : [
+                "skip_ad_button"
+            ],
+            "mute_ids": [
+                "player_learn_more_button",
+                "ad_progress_text"
+            ]
+        }
+    ]
+}
