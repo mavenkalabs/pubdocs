@@ -3,11 +3,11 @@
     "packages": [
         {
             "package": "com.google.android.youtube",
-            "click_ids" : [
+            "click_rules" : [
                 "skip_ad_button",
                 "modern_miniplayer_skip_ad_button"
             ],
-            "mute_ids": [
+            "mute_rules": [
                 "player_learn_more_button",
                 "ad_progress_text",
                 "modern_miniplayer_ad_badge",
@@ -16,10 +16,10 @@
         },
         {
             "package": "com.google.android.youtube.music",
-            "click_ids" : [
+            "click_rules" : [
                 "skip_ad_button"
             ],
-            "mute_ids": [
+            "mute_rules": [
                 "player_learn_more_button",
                 "ad_progress_text"
             ]
