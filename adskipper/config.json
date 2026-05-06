@@ -4,20 +4,21 @@
         {
             "package": "com.google.android.youtube",
             "click_rules" : [
-                "skip_ad_button",
-                "modern_miniplayer_skip_ad_button"
+                "skip_ad_button&_ruleid_no_recent_user_click",
+                "modern_miniplayer_skip_ad_button&_ruleid_no_recent_user_click",
             ],
             "mute_rules": [
                 "player_learn_more_button",
                 "ad_progress_text",
                 "modern_miniplayer_ad_badge",
-                "ad_badge&!collapsible_ad_cta_overlay_container" 
+                "ad_badge&!collapsible_ad_cta_overlay_container"
             ]
         },
         {
             "package": "com.google.android.youtube.music",
             "click_rules" : [
-                "skip_ad_button"
+                "skip_ad_button&_ruleid_no_recent_user_click",
+                "snackbar_action&_ruleid_no_recent_user_click"
             ],
             "mute_rules": [
                 "player_learn_more_button",
