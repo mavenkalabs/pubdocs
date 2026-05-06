@@ -18,7 +18,7 @@
             "package": "com.google.android.youtube.music",
             "click_rules" : [
                 "skip_ad_button",
-                "snackbar_action"
+                "snackbar_action&_ruleid_no_recent_user_click"
             ],
             "mute_rules": [
                 "player_learn_more_button",
