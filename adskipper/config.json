@@ -15,7 +15,7 @@
             ]
         },
         {
-            "package": "com.google.android.youtube.music",
+            "package": "om.google.android.apps.youtube.music",
             "click_rules" : [
                 "skip_ad_button",
                 "snackbar_action&_ruleid_no_recent_user_click"
