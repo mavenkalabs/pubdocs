@@ -5,7 +5,7 @@
             "package": "com.google.android.youtube",
             "click_rules" : [
                 "skip_ad_button",
-                "modern_miniplayer_skip_ad_button",
+                "modern_miniplayer_skip_ad_button"
             ],
             "mute_rules": [
                 "player_learn_more_button",
