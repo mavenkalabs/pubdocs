@@ -4,8 +4,8 @@
         {
             "package": "com.google.android.youtube",
             "click_rules" : [
-                "skip_ad_button&_ruleid_no_recent_user_click",
-                "modern_miniplayer_skip_ad_button&_ruleid_no_recent_user_click",
+                "skip_ad_button",
+                "modern_miniplayer_skip_ad_button",
             ],
             "mute_rules": [
                 "player_learn_more_button",
@@ -17,7 +17,7 @@
         {
             "package": "com.google.android.youtube.music",
             "click_rules" : [
-                "skip_ad_button&_ruleid_no_recent_user_click",
+                "skip_ad_button",
                 "snackbar_action&_ruleid_no_recent_user_click"
             ],
             "mute_rules": [
